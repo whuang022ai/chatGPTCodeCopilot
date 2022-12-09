@@ -88,6 +88,8 @@ python chatGPTCodeCopilot.py -S 要簡化的程式.py
 ![a](https://user-images.githubusercontent.com/39413017/206676085-8c0f4210-53df-42d3-976d-689755d64ed0.png)
 ![b](https://user-images.githubusercontent.com/39413017/206676335-6c0c2bd2-3fd0-4e03-8107-8e1617c53c0a.png)
 
+並且附上教學範例程式 [這裡](https://github.com/whuang022ai/chatGPTCodeCopilot/blob/main/example_result/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8/example_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8_code_block_1.py)
+
 
 ## Reference
 
