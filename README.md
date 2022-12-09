@@ -76,13 +76,17 @@ python chatGPTCodeCopilot.py -S 要簡化的程式.py
 
 ## Example
 
-run example :
+生成AI基本概念解說+線性回歸的教學 :
 
 ```
 ./run_gen_book_example.sh
 ```
 
 輸出結果都在 example_result
+
+經過編輯後：
+![a](https://user-images.githubusercontent.com/39413017/206676085-8c0f4210-53df-42d3-976d-689755d64ed0.png)
+![b](https://user-images.githubusercontent.com/39413017/206676335-6c0c2bd2-3fd0-4e03-8107-8e1617c53c0a.png)
 
 
 ## Reference
