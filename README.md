@@ -3,6 +3,7 @@
 using chatGPT to help coding and an auto book generator
 
 用 chatGPT API 做的程式協助和教學工具的概念驗證的prototype
+
 簡單說就是讓人工智慧自己寫基礎概念教學的書的一個概念驗證
 
 ## Installation
