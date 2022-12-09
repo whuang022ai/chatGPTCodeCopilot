@@ -92,7 +92,7 @@ python chatGPTCodeCopilot.py -S 要簡化的程式.py
 
 pdf在[這裡](https://drive.google.com/file/d/1QkdRuq0HjXaxgXl3IC6gDChNiebzV2WH/view?usp=sharing)
 
-並且附上教學範例程式，也是由ChatGPT[這裡](https://github.com/whuang022ai/chatGPTCodeCopilot/blob/main/example_result/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8/example_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8_code_block_1.py)
+並且附上教學範例程式，也是由ChatGPT自動生成 [這](https://github.com/whuang022ai/chatGPTCodeCopilot/blob/main/example_result/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8/example_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8_code_block_1.py)
 
 
 ## Reference
