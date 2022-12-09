@@ -38,9 +38,9 @@ python chatGPTCodeCopilot.py -t in.py -a python -b c++
 python chatGPTCodeCopilot.py -e 線性回歸 -b python
 ```
 
-```
+
 --whatis, -w: 介紹某事情，用法: -w [the thing you want to ask]
-```
+
 
 ```
 python chatGPTCodeCopilot.py -w 線性回歸
